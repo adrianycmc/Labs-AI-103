@@ -65,3 +65,7 @@ python app/chat-async.py
 ## 🔐 Segurança e Boas Práticas
 - O arquivo `.env` contém credenciais sensíveis e deve ser listado no `.gitignore`.
 - Utilize APIs modernas (`responses`) quando for necessário manter o histórico da conversa de forma eficiente.
+
+---
+
+O exercício está disponível em: [Crie um aplicativo de chat de IA generativa | Desenvolver soluções de IA generativa no Azure](https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/Exercises/03-foundry-sdk.html#summary)
