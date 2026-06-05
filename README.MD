@@ -55,7 +55,7 @@ Para executar qualquer um dos laboratórios, você precisará configurar um proj
 
 Ao concluir esses laboratórios, você terá uma base sólida na construção de soluções de IA generativa utilizando a infraestrutura do Microsoft Azure. Sinta-se à vontade para explorar os outros diretórios de laboratórios à medida que forem adicionados, ou para expandir as implementações atuais com novas funcionalidades (filtros de conteúdo, RAG, etc.).
 
-Se tiver dúvidas durante o processo, consulte a [Documentação Oficial do Azure OpenAI](https://learn.microsoft.com/azure/ai-services/openai/) ou o portal [Microsoft Learn](https://learn.microsoft.com/training/paths/develop-ai-solutions-azure-openai/).
+Se tiver dúvidas durante o processo, consulte a [Documentação Oficial do Azure OpenAI](https://learn.microsoft.com/azure/ai-services/openai/) ou o portal [Microsoft Learn](https://learn.microsoft.com/pt-br/training/courses/ai-103t00).
 
 ---
 **Desenvolvido como parte dos estudos para a certificação Microsoft Certified: Azure AI Engineer Associate.**
