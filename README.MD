@@ -5,6 +5,7 @@ Este repositório contém os laboratórios práticos do curso **AI-103: Desenvol
 ## 🛠️ Laboratórios Disponíveis
 
 - **[01. Chat com IA generativa](./01.%20Chat%20com%20IA%20generativa/)**: Aprenda a criar um app de chat com Azure OpenAI, explorando Chat Completions, Responses API e Streaming.
+- **[02. Aplicativo de IA generativa com uso de ferramentas](./02.%20Aplicativo%20de%20IA%20generativa%20com%20uso%20de%20ferramentas/)**: Desenvolva um aplicativo de chat que utiliza ferramentas para buscar informações em documentos PDF locais e na web, utilizando Assistants API e Vector Stores.
 
 ## ℹ️ Sobre o Repositório
 
